@@ -4,4 +4,4 @@ This file edited by another engineer!
 
 JDK 20
 Maven 3.9
-Mysql 3.8
+Mysql 3.7
